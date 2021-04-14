@@ -1,3 +1,3 @@
 # Senac
 
-- Primeiro teste no git
+- Primeiro teste no git.
